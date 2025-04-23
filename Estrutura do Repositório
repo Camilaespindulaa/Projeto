@@ -1,0 +1,34 @@
+estudo-facil/
+├── public/
+│   ├── index.html
+│   ├── favicon.ico
+│   └── manifest.json
+├── src/
+│   ├── components/
+│   │   ├── Auth/
+│   │   │   ├── Login.jsx
+│   │   │   └── Register.jsx
+│   │   ├── Tasks/
+│   │   │   ├── TaskForm.jsx
+│   │   │   ├── TaskList.jsx
+│   │   │   └── TaskItem.jsx
+│   │   ├── Progress/
+│   │   │   └── ProgressChart.jsx
+│   │   └── Navbar.jsx
+│   ├── pages/
+│   │   ├── HomePage.jsx
+│   │   ├── LoginPage.jsx
+│   │   └── DashboardPage.jsx
+│   ├── services/
+│   │   ├── auth.js
+│   │   └── tasks.js
+│   ├── styles/
+│   │   ├── main.css
+│   │   └── variables.css
+│   ├── App.js
+│   ├── index.js
+│   └── firebaseConfig.js
+├── .gitignore
+├── package.json
+├── README.md
+└── LICENSE
